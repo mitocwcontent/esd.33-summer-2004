@@ -1,0 +1,31 @@
+---
+content_type: page
+title: Readings
+uid: 6f92d971-ae09-6924-b07d-4c11091d4b64
+---
+
+| LEC # | TOPICS | READINGS |
+| --- | --- | --- |
+| {{< td-colspan 3 >}}**Frameworks**{{< /td-colspan >}} |||
+| 1 | Course Introduction; What is Systems Engineering? | Argyris, Chris. "Teaching Smart People How to Learn." _Harvard Business Review_ (May-June 1991): 3-16.  {{< br >}}  {{< br >}}Schön, Donald A. Notes from _The Reflective Practitioner_. Ashgate Publishing, 1994. ISBN: 1-85742-319-4. |
+| 2 | INCOSE Model of SE; RCI Model of SE  {{< br >}}  {{< br >}}RCI Systems Engineering Process | Clausing, Don, Elliot Axelband, and R. B. Campbell. "Advances in Commercial Product Development Lessons for INCOSE Systems Engineering." _INCOSE INSIGHT_ (Fall 1999): 50-53.  {{< br >}}  {{< br >}}International Council on Systems Engineering. "Systems Engineering Overview." Chapter 2 in _INCOSE Systems Engineering Handbook._ Version 2a. June 2004. pp. 19-29.  {{< br >}}  {{< br >}}International Council on Systems Engineering. "Systems Engineering Overview." Chapter 4 in _INCOSE Systems Engineering Handbook._ Version 2a. June 2004. pp. 27-34. |
+| 3 | Lean Thinking; Set-Based Design | Stanke, Alexis, and Earll Murman. "A Framework for Achieving Lifecycle Value In Aerospace Product Development." _2002 International Council of Aeronautical Sciences Congress_.  {{< br >}}  {{< br >}}Ward, Allen, Jeffrey K. Liker, John J. Cristiano, and Durward K. Sobek II. "The Second Toyota Paradox: How Delaying Decisions Can Make Better Cars Faster." _Sloan Management Review_ (Spring 1995): 43-61.  {{< br >}}  {{< br >}}Womack, James P.. "Lean Thinking versus Muda." In _Lean Thinking._ New York: Free Press, 2003. pp. 15-28. ISBN: 0743249275. |
+| 4 | Axiomatic Design; Decision-Based Design; Summary of Frameworks Phase | Hirschi, N. W., and D. D. Frey. "Cognition and Complexity: An Experiment on the Effect of Coupling in Parameter Design." _Research in Engineering Design_ 13, no. 3 (2002): 123–131.  {{< br >}}  {{< br >}}Gerd, Gigerenzer, and Peter M. Todd (corresponding author). "Bounding Rationality to the World." _Journal of Economic Psychology_ 24 (2003): 143–165.  {{< br >}}  {{< br >}}Hazerlrigg, G. A. "An Axiomatic Framework for Engineering Design." National Science Foundation. _Journal of Mechanical Design_ 121 (September 1999): 342-347.   {{< br >}}  {{< br >}}Suh, Nam P. "Axiomatic Design Theory for Systems." _Research in Engineering Design_ 10 (1998): 189–209. |
+| 5 | Exam 1 | Brooks, Jr., Frederick P. "No Silver Bullet: Essence and Accidents of Software Engineering." _Computer Magazine_ (April 1987). |
+| {{< td-colspan 3 >}}**Tools**{{< /td-colspan >}} |||
+| 6 | Quality Function Deployment | Hauser, John R., and Don Clausing. "The House of Quality." _Harvard Business Review_ (May-June 1998): 63-73.  {{< br >}}  {{< br >}}Griffin, Abbie. "Evaluating Development Processes: QFD As An Example." _MSI Report Summary._ Report no. 91-121.  {{< br >}}  {{< br >}}Olewnik, Andrew T., and Kemper E. Lewis. "On Validating Design Decision Methodologies." _Proceedings of ASME 2003 Design Engineering Technical Conferences and Computers and Information in Engineering Conference, Chicago, IL, September 2-6, 2003_. |
+| 7 | Pugh Concept Selection; Controlled Convergence | Pugh, Stuart. "Design Core: Conceptual Design." In _Total Design_. Addison-Wesley Longman: 1991. pp. 74-99. ISBN: 0-201-41639-5. |
+| 8 | Effective Innovation | &nbsp; |
+| 9 | Critical Parameter Management and Error Budgeting | Creveling, Clyde M., Jeffrey Lee Slutsky, and David Antis. "The Architecture of the Critical Parameter Management Process." In _Design for Six Sigma in Technology and Product Development_. Prentice Hall, 2002. pp. 257-263. ISBN: 0-13-009223-1.  {{< br >}}  {{< br >}}Frey, Daniel D. "Error Budgeting." |
+| 10 | Design of Experiments | Box, George E. P., and Patrick Y. T. Liu. "Statistics as a Catalyst to Learning by Scientific Method Part I—An Example." _Journal of Quality Technology_ 31, no. 1 (January 1999): 1-15.  {{< br >}}  {{< br >}}Box, George E. P. "Statistics as a Catalyst to Learning by Scientific Method Part II—A Discussion." _Journal of Quality Technology_ 31, no. 1 (January 1999): 16-29.  {{< br >}}  {{< br >}}Frey, Daniel D., Fredrik Engelhardt, and Edward M. Greitzer. "A Role for "One-Factor-At-A-Time" Experimentation in Parameter Design." _Research in Engineering Design_ 14 (2003): 65–74.  {{< br >}}  {{< br >}}Thomke, Stefan. "Enlightened Experimentation: The New Imperative for Innovation." _Harvard Business Review_ (February 2001): 66-75. |
+| 11 | Design of Experiments (cont.)  {{< br >}}  {{< br >}}Isoperformance | deWeck, Olivier L., and Marshall B. Jones. "Isoperformance: Analysis and Design of Complexity Systems with Known or Desired Outcomes." _INCOSE 2004 - 14th Annual International Symposium Proceedings__, Toulouse, France, June 21-24, 2004_. |
+| 12 | Physics Based Modeling | Hazelrigg, G. A. "On the Role and Use of Mathematical Models of Engineering Design." National Science Foundation. _Journal of Mechanical Design_ 121 (September 1999): 336-341. Arlington, VA.  {{< br >}}  {{< br >}}Senin, Nicola, David R. Wallace, and Nicolas Borland. "Distributed Object-Based Modeling in Design Simulation Marketplace." _Journal of Mechanical Design_ 125 (March 2003): 2-13. |
+| 13 | Robust Design | Taguchi, Genichi, and Don Clausing. "Robust Quality." _Harvard Business Review_ (January-February 1990): 64-75.  {{< br >}}  {{< br >}}Ulrich, K. T., and S. D. Eppinger. "Robust Design." Chapter 13 in _Product Design and Development._ 3rd ed. New York: McGraw-Hill, 2003. |
+| 14 | Extreme Programming | Beck, Kent. "Embracing Change with Extreme Programming." _IEEE Computer_ 32, no. 10 (October 1999): 70-77.  {{< br >}}  {{< br >}}Williams, Laurie, Robert R. Kessler, Ward Cunningham, and Ron Jeffries. "Strengthening the Case for Pair Programming." _IEEE Software_ (July-August 2000): 19-25. |
+| 15 | Exam 2 | &nbsp; |
+| {{< td-colspan 3 >}}**Case Studies**{{< /td-colspan >}} |||
+| 16 | Aircraft Engines (GE)  {{< br >}}  {{< br >}}Automobiles | GE Transportation Aircraft Engines |
+| 17 | Work on Aircraft Engines Assignment  {{< br >}}  {{< br >}}Project Oxygen | &nbsp; |
+| 18 | NORAD Command and Control (Mitre) | &nbsp; |
+| 19 | Tactical Tomahawk | &nbsp; |
+| 20 | Course Summary; Feedback |
